@@ -1,0 +1,11 @@
+{
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "arrowParens": "avoid",
+  "endOfLine": "<lf|crlf|cr|auto>",
+  "useTabs": true,
+  "bracketSpacing": true,
+  "bracketSameLine": true,
+  "htmlWhitespaceSensitivity": "<css|strict|ignore>"
+}
